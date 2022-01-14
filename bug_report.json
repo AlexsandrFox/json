@@ -1,8 +1,8 @@
 
 {
-  "Title":"отсутвие загрузки вложенных файлов входящего эл. письма",
-"Description":"несрабатывает загрузка файлов при ответе на письмо с помощью кнопки (ответить) с даннго e-mail (Ukr.net)",
-"conditions":"для воспроизведения потреб. 2 почты":
+  "Title":"incoming email attachments not loading letters",
+"Description":"uploading files does not work when replying to a letter using the (reply) button from this e-mail (Ukr.net)",
+"conditions":"to play the demand. 2 mail":
   {"name":"shchybrya@gmail.com",
    "Log.":".......", 
    "Pas.":".......",
@@ -11,21 +11,21 @@
    "Pas." "......."} 
 
 "Steps":{
-"Step1":"Зайти на электр. почту (shchybrya@gmail.com), создать эл. письмо",
-"Step2":"отправить эл. письмо на e-mail (s.alex1987@ukr.net)",
-"Step3":"зайти на эл. почту (s.alex1987@ukr.net), выбрать вкладку (входящие)",
-"Step5":"в открывшейся вкладке (входящие) открыть входящее письмо присланное с e-mail (shchybrya@gmail.com)",
-"Step6":"в открывшемся письме, нажать кнопку (ответить)",
-"Step7":"в открывшейся вкладке ответного письма, нажать кнопку (файл)",
-"Step8":"в открывшемся окне файлов, выбрать любые несколько файлов разного типа,  нажать кнопку (открыть)",
+"Step1":"Log in to email (shchybrya@gmail.com), create email. letter",
+"Step2":"send email (s.alex1987@ukr.net)",
+"Step3":"go to email (s.alex1987@ukr.net), select the tab (inbox)",
+"Step5":"in the opened tab (inbox) open the incoming letter sent from e-mail (shchybrya@gmail.com)",
+"Step6":"in the opened letter, press the button (reply)",
+"Step7":"in the opened tab of the response letter, click the button (file)",
+"Step8":"in the opened file window, select any several files of different types, press the button (open)",
   "type":["txt", "json", "xml", "mp3", "mp4", "imag"], 
-"Step9":"отправить письмо на e-mail (shchybrya@gmail.com)",
-"Step10":"зайти на эл. почту (shchybrya@gmail.com)",
-"Step11":"в открывшемся e-mail (shchybrya@gmail.com) выбрать вкладку (входящие)",
-"Step12":"в открывшейся вкладке(входящие) открыть входящее письмо присланное с e-mail (s.alex1987@ukr.net)",
-"Step13":"в открывшемся письме кликнуть на вложенные в него файлы для загрузки"} 
+"Step9":"send an email to (shchybrya@gmail.com)",
+"Step10":"go to email mail (shchybrya@gmail.com)",
+"Step11":"in the opened e-mail (shchybrya@gmail.com) select the tab (inbox)",
+"Step12":"in the opened tab (inbox) open the incoming letter sent from e-mail (s.alex1987@ukr.net)",
+"Step13":"in the opened letter, click on the files attached to it to download"} 
  
-"Ф.Р.":"при нажатии на вложенный файл в входящем письме, файл не загружается",
+"A.R.":"when clicking on an attachment in an incoming email, the file is not downloaded",
  
-"О.Р.":"необходимо исправить ошибку, файлы должны загружатся при нажатии на иконку файла. Хотя визуально при открытии письма иконка отображается"
+"W.R.":"you need to fix the error, the files should be loaded when you click on the file icon. Although visually when opening a letter the icon is displayed"
 }
