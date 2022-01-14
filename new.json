@@ -1,1 +1,14 @@
-{"name":"Fox"}
+{"firs name":"Alex",
+	"Last name":"Fox",
+	"age":34,"pets":{
+	"number of pets":"one",
+	"name of pet":"Felix"},
+	"future salary":"3500$"
+
+
+
+
+
+
+
+}
